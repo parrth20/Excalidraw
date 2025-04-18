@@ -1,0 +1,1 @@
+should be use single env file for all the apps in turborepo? or create multiple env files for each app?
